@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="Contact Form.css">
+</head>
+<body>
+    <form action="Groom Thanku.html" method="get">
+        <header class="main_heading">
+           <img src="images/16" alt="contact form" width="100"> <h1 ><b>Contact Form</b></h1>
+            <h3><i>fill all the texts in the field</i> </h3>
+            
+        </header>
+        
+        <div class="container">
+        <p> <legend>Your Name:</legend>
+            <input type="text" required name="name" placeholder="Your Full Name">
+        </p>
+        <br>
+        <p> <legend>YourEmail:</legend> 
+            <input type="email" required name="email" placeholder="Your Email Address">
+        </p>
+        <br>
+        
+        <p><legend>Message:</legend>   
+            <textarea placeholder="Your message to us" name="message" id="message"></textarea>
+        </p>
+        <br>
+        <p><legend>Subject:</legend>
+            <input type="subject" required name="subject" placeholder="Your Subjet">
+        </p>
+        <br>
+        <input class="button" type="submit" value="Send">
+        
+
+     </form>
+    </div>
+</body>
+</html>
