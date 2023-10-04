@@ -1,0 +1,138 @@
+*{
+    box-sizing:content-box;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(231, 231, 223);
+    margin: 10px 30px;
+    
+}
+
+h1{
+    text-align: center;
+    margin-top: 20px;
+    background: linear-gradient(skyblue, yellow);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 60px;
+    border-radius: 30px;
+    color: black;
+   
+}
+
+.Aatif{
+    text-align: center;
+    margin-top: 30px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    color: blueviolet;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.yash{
+    padding-left: 60px;
+    padding-right: 60px;
+    font-size: xx-large;
+    border-radius: 20px;
+    cursor: pointer;
+    background-color: rgb(231, 223, 226);
+    font-weight: bolder;
+    text-decoration: none;
+    
+}
+
+.yash:hover{
+    color: rgb(249, 249, 250);
+    background-color: rgb(54, 35, 124);
+}
+
+.A{
+    font-size: 20px;
+    border-radius: 100px solid rgb(223, 10, 10);
+    cursor: pointer;
+    padding-left: 30px;
+    margin-right: 60px;
+    width:40vh;
+
+}
+
+
+.Home{
+    text-decoration: none;
+    padding: 5px 20px;
+    border-radius: 10px;
+    font-size: x-large;
+    background: white;
+    font-weight: bold;
+    
+}
+.Home:hover{
+    cursor: pointer;
+    color: white ;
+    background-color: black;
+}
+
+.baba{
+    
+    background: linear-gradient(to right, #5f8838 , #12bb83);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #12bb83;
+    border-radius: 20px;
+
+}
+
+.sahil{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #000;
+}
+
+.Ab{
+    font-size: 20px;
+    border-radius: 100px solid rgb(223, 10, 10);
+    cursor: pointer;
+    padding-left: 18px;
+    margin-left: 48px;
+    width:50vh;
+}
+
+.Ac{
+    font-size: 20px;
+    border-radius: 100px solid black;
+    cursor: pointer;
+    padding-left: 57px;
+    margin-right: 20vh;
+    width:50vh;
+}
+
+.Ad{
+    font-size: 20px;
+    border-radius: 100px solid black;
+    cursor: pointer;
+    padding-left: 30px;
+    margin-right: 18vh;
+    width:50vh;
+}
+
+.Ae{
+    font-size: 20px;
+    border-radius: 100px solid black;
+    cursor: pointer;
+    padding-left: 30px;
+    width:50vh;
+    margin-left: 4vh;
+}
+
+.Af{
+    
+    font-size: 20px;
+    border-radius: 100px solid rgb(223, 10, 10);
+    cursor: pointer;
+    padding-left: 30px;
+    
+    width:50vh;
+
+}
+
+
+
