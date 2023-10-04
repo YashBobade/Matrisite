@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+section h3{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+
+h2 {
+    padding: 20px;
+    
+}
+
+
+.yash{
+    background: linear-gradient(to right, #bee707 , #9cbb12);
+    padding: 10px 55px;
+    border-radius: 10px;
+    background-size: 50%;
+    background-position: 50%;
+    background-position-x: center;
+    font-size: xx-large;
+    
+}
+
+.w{
+    
+    text-align: center;
+    background: linear-gradient(rgb(146, 112, 112),yellow,rgb(104, 79, 98));
+    
+}
+
+h2{
+    text-align: center;
+}
+.profile{
+    border-radius: 50%;
+    width: 25%;
+    height: 50vh;
+    margin-left: 78vh;
+    margin-right: 50vh;
+    
+}
+
+.w{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 10vh;
+    
+}
+
+
+
+.back{
+    background-image: url(images/background3.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.M{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(19, 16, 14);
+    font-size: x-large;
+}
+
+.profile_name{
+    font-size: 2em;
+    font-weight: 900;
+    letter-spacing: 4px;
+    word-spacing: 10px;
+    text-transform: uppercase;
+    margin: 20px 0px 30px 0px;
+    background: linear-gradient(to right, #cc6008 , #8ebb12);
+    padding: 10px 55px;
+    border-radius: 70px;
+    margin-left: 58vh;
+    margin-right: 30%;
+    
+
+    
+    
+}
+
+@media screen and (max-width: 700px) {
+    html{
+        font-size: 55%;
+    }
+    .flex-align-right{
+        margin-left: 0;
+    }
+   
+}
